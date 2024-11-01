@@ -1,3 +1,7 @@
+---
+title: "My Custom Title"  # Leave blank for no title
+---
+
 # Hello World
 
 ## Heading 2
@@ -18,3 +22,6 @@
 </ol>
 
   <p>This is a paragraph within `<p></p>` elements. </p>
+
+  <h3>Heading Three</h3>
+  Does this work?
