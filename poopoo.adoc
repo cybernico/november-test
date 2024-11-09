@@ -1,3 +1,9 @@
+= Heading 1
+
+This is a sentence.
+This is a second sentence.
+This is yet another sentence, we'll call it the third.
+
 [.lead]
 This text will be styled as a lead paragraph (i.e., larger font).
 
