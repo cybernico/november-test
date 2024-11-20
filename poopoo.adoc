@@ -1,10 +1,17 @@
 = Heading 1
+John Smith
 
 This is a sentence.
 This is a second sentence.
 This is yet another sentence, we'll call it the third.
 
-[.lead]
 This text will be styled as a lead paragraph (i.e., larger font).
 
 This paragraph will not be.
+
+==Heading 2
+Lorem ipsum, Baby!
+
+.Bullet Points
+* Tell me something good.
+* Tell me something better.
