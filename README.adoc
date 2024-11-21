@@ -1,4 +1,4 @@
-# Lorem Ipsum
+= Lorem Ipsum
 
 This is the readme.md file.
 I wonder if this will be published, or the index.md file.
@@ -8,7 +8,7 @@ The next "Commit" will test that.
 
 Let's see!
 
-## Heading 2
+== Heading 2
 
 Some text
 
