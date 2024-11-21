@@ -1,5 +1,5 @@
 = Lorem Ipsum
-
+YO.
 This is the readme.md file.
 I wonder if this will be published, or the index.md file.
 This is publishing one sentence per line.
@@ -19,7 +19,7 @@ Some text
 
 Just a line here.
 
-### Now Heading Three
+=== Now Heading Three
 - One
 - Two
 - Three
