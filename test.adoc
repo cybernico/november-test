@@ -9,9 +9,19 @@ This text will be styled as a lead paragraph (i.e., larger font).
 
 This paragraph will not be.
 
-==Heading 2
+== Heading 2
 Lorem ipsum, Baby!
 
 .Bullet Points
 * Tell me something good.
 * Tell me something better.
+* Third bullet point
+
+.Numbered List
+. point one
+. point two
+. point three
+
+And a final paragraph.
+
+---
